@@ -1,0 +1,16 @@
+0000: 8BAF                    lda #$AF
+0002: 9BDE                    ldb #$DE
+0004: ABEF                    ldx #$EF
+0006: BBEB                    ldy #$EB
+0008: CB0A                    lda $0A
+000A: DB1B                    ldb $1B
+000C: EB2C                    ldx $2C
+000E: FB3D                    ldy $3D
+0010: 82AA                    ora #$aa        
+0012: 83F0                    anda #$f0
+0014: 82AA                    ora #$aa
+0016: 8B05                    lda #$05
+0018: 8006                    adda #$06
+001A: 8103                    suba #$03
+
+SYMBOL TABLE

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DAVE">
+      <UniqueIdentifier>{89d43721-db45-4086-8467-347100e28f05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NutShell">
+      <UniqueIdentifier>{baa9f160-d997-4450-85cf-7ca03b8215cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="somefile.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="myfuncs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cel_2_fer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="get_put_char.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="func.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="badstr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sumint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scope.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="casts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="macro.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scope1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floattricks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StorageClasses.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="volat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constqualifier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileopen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="preced_assoc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="log_mess.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="binaryfile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileRW.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structunion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funcptr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sockserv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sockclient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrofstr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_1.c">
+      <Filter>DAVE</Filter>
+    </ClCompile>
+    <ClCompile Include="EX_2.c">
+      <Filter>DAVE</Filter>
+    </ClCompile>
+    <ClCompile Include="preid.c">
+      <Filter>NutShell</Filter>
+    </ClCompile>
+    <ClCompile Include="jacobo_0.c">
+      <Filter>NutShell</Filter>
+    </ClCompile>
+    <ClCompile Include="heapsort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fileIO_tut.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trie.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="compout.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shftout.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aluout.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ovfcrry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

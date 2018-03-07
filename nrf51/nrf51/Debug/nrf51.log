@@ -1,0 +1,184 @@
+﻿  main.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\examples\peripheral\timer\main.c(54): fatal error C1083: Cannot open include file: 'nrf_drv_timer.h': No such file or directory
+  sdk_errors.c
+  nrf_assert.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(128): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2085: 'app_error_log': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(163): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2085: 'app_error_print': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c(44): error C2054: expected '(' to follow '__WEAK'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c(45): error C2082: redefinition of formal parameter 'assert_nrf_callback'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\nrf_assert.c(45): error C2143: syntax error: missing ';' before '{'
+  app_timer_appsh.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(128): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2085: 'app_error_log': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(163): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2085: 'app_error_print': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(750): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2085: 'value_rescale': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(762): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2085: 'uint16_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(776): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2085: 'uint24_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(791): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2085: 'uint32_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(807): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2085: 'uint48_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(824): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2085: 'uint16_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(836): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2085: 'uint16_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(848): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2085: 'uint24_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(861): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2085: 'uint32_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(875): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2085: 'uint32_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(891): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2085: 'uint16_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(906): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2085: 'uint32_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(918): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2085: 'uint48_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(948): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2085: 'battery_level_in_percent': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(986): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2085: 'is_word_aligned': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(998): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2085: 'is_address_from_stack': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\timer\app_timer_appsh.c(42): fatal error C1083: Cannot open include file: 'app_scheduler.h': No such file or directory
+  app_timer.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(750): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2085: 'value_rescale': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(762): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2085: 'uint16_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(776): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2085: 'uint24_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(791): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2085: 'uint32_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(807): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2085: 'uint48_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(824): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2085: 'uint16_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(836): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2085: 'uint16_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(848): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2085: 'uint24_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(861): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2085: 'uint32_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(875): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2085: 'uint32_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(891): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2085: 'uint16_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(906): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2085: 'uint32_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(918): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2085: 'uint48_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(948): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2085: 'battery_level_in_percent': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(986): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2085: 'is_word_aligned': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(998): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2085: 'is_address_from_stack': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2143: syntax error: missing ';' before '{'
+  bsp.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(128): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2085: 'app_error_log': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(163): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2085: 'app_error_print': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_gpio.h(68): fatal error C1189: #error:  "Not supported."
+  nrf_drv_timer.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(750): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2085: 'value_rescale': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(751): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(762): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2085: 'uint16_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(763): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(776): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2085: 'uint24_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(777): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(791): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2085: 'uint32_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(792): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(807): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2085: 'uint48_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(808): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(824): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2085: 'uint16_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(825): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(836): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2085: 'uint16_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(837): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(848): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2085: 'uint24_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(849): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(861): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2085: 'uint32_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(862): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(875): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2085: 'uint32_big_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(876): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(891): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2085: 'uint16_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(892): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(906): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2085: 'uint32_big_encode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(907): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(918): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2085: 'uint48_decode': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(919): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(948): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2085: 'battery_level_in_percent': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(949): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(986): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2085: 'is_word_aligned': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(987): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(998): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2085: 'is_address_from_stack': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_util.h(999): error C2143: syntax error: missing ';' before '{'
+  boards.c
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(128): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2085: 'app_error_log': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(129): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(163): error C2054: expected '(' to follow '__INLINE'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2085: 'app_error_print': not in formal parameter list
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\libraries\util\app_error.h(164): error C2143: syntax error: missing ';' before '{'
+c:\users\goku\downloads\nrf5_sdk_12.3.0_d7731ad\nrf5_sdk_12.3.0_d7731ad\components\drivers_nrf\hal\nrf_gpio.h(68): fatal error C1189: #error:  "Not supported."
+  Generating Code...

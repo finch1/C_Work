@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{57791927-2CD2-4346-8A27-A2725836BD19}") = "V3sProject1", "V3sProject1\V3sProject1.v3sproj", "{7414BB0D-7409-451B-A4DC-F05B797D50A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Full Compilation|Default = Full Compilation|Default
+		Syntax Check|Default = Syntax Check|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7414BB0D-7409-451B-A4DC-F05B797D50A2}.Full Compilation|Default.ActiveCfg = Full Compilation
+		{7414BB0D-7409-451B-A4DC-F05B797D50A2}.Full Compilation|Default.Build.0 = Full Compilation
+		{7414BB0D-7409-451B-A4DC-F05B797D50A2}.Syntax Check|Default.ActiveCfg = Syntax Check
+		{7414BB0D-7409-451B-A4DC-F05B797D50A2}.Syntax Check|Default.Build.0 = Syntax Check
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

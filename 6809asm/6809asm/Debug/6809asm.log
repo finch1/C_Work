@@ -1,0 +1,41 @@
+﻿  amines.c
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(317): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(749): warning C4101: 'oldsrcptr': unreferenced local variable
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(749): warning C4101: 'd': unreferenced local variable
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(855): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(960): warning C4244: 'function': conversion from 'short' to 'unsigned char', possible loss of data
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1001): warning C4244: 'function': conversion from 'short' to 'unsigned char', possible loss of data
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1169): warning C4244: 'function': conversion from 'short' to 'unsigned char', possible loss of data
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1257): warning C4013: 'processfile' undefined; assuming extern returning int
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1335): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1357): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1362): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1411): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1412): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1415): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1432): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1454): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1461): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1468): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\goku\documents\visual studio 2015\projects\6809asm\6809asm\amines.c(1433): warning C4716: 'processfile': must return a value
+  6809asm.vcxproj -> C:\Users\GOKU\Documents\Visual Studio 2015\Projects\6809asm\Debug\6809asm.exe
+  6809asm.vcxproj -> C:\Users\GOKU\Documents\Visual Studio 2015\Projects\6809asm\Debug\6809asm.pdb (Full PDB)
